@@ -1,0 +1,5 @@
+Revision history for Perl extension HTTP::Session::State::MobileAttribute
+
+0.37
+    
+    - separated from HTTP::Sesession core dist.
