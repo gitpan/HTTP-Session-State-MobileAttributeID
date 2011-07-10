@@ -1,5 +1,5 @@
 ---
-abstract: "Maintain session IDs using mobile phone's unique id"
+abstract: '(DEPRECATED)'
 author:
   - 'Tokuhiro Matsuno <tokuhirom AAJKLFJEF GMAIL COM>'
 build_requires:
@@ -23,8 +23,8 @@ requires:
   HTML::StickyQuery::DoCoMoGUID: 0.01
   HTTP::MobileAttribute: 0.23
   HTTP::Session: 0.43
-  Net::CIDR::MobileJP: 0.21
+  Net::CIDR::MobileJP: 0.23
   perl: 5.8.0
 resources:
   license: http://dev.perl.org/licenses/
-version: 0.39
+version: 0.40
