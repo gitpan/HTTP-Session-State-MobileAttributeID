@@ -7,7 +7,7 @@ use HTTP::MobileAttribute  plugins => [
     'CIDR',
 ];
 use 5.00800;
-our $VERSION = '0.40';
+our $VERSION = '0.41';
 
 __PACKAGE__->mk_ro_accessors(qw/mobile_attribute check_ip/);
 
@@ -75,7 +75,7 @@ HTTP::Session::State::MobileAttributeID - (DEPRECATED)
 
 Maintain session IDs using mobile phone's unique id
 
-B< THIS MODULE WAS DEPERECATED. DO NOT USE THIS MODULE. I WILL REMOVE THIS MODULE FROM CPAN AFTER 2011-12-31>.
+B< THIS MODULE WAS DEPRECATED. DO NOT USE THIS MODULE. I WILL REMOVE THIS MODULE FROM CPAN AFTER 2011-12-31>.
 
 B<THIS MODULE MAKES SECURITY HOLE. TAKE CAREFULLY.>.
 

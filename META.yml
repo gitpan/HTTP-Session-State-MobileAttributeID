@@ -23,8 +23,8 @@ requires:
   HTML::StickyQuery::DoCoMoGUID: 0.01
   HTTP::MobileAttribute: 0.23
   HTTP::Session: 0.43
-  Net::CIDR::MobileJP: 0.23
+  Net::CIDR::MobileJP: 0.24
   perl: 5.8.0
 resources:
   license: http://dev.perl.org/licenses/
-version: 0.40
+version: 0.41
